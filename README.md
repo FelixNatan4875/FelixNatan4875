@@ -43,6 +43,6 @@
 <!-- Stats -->
 <div style="text-align: center; margin-top: 20px;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="20%" align="center">
+    <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=FelixNatan4875&theme=dark"></td><td width="20%" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixNatan4875&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" alt="Top Langs" />
 </div
