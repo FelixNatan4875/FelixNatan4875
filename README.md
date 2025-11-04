@@ -2,7 +2,7 @@
 <div style="flex: 1; min-width: 300px; text-align: left;">
   <h2 style="border-bottom: 2px solid #d8dee4; color: #282d33; padding-bottom: 5px;">🔭 Experience</h2>
   <ul style="list-style: none; padding: 0; margin: 10px 0; line-height: 1.6;">
-    <li><strong>BINUS University @Bandung</strong> – Computer Science (Network Technology Focus) (2022.09 ~ Present)</li>
+    <li><strong>BINUS University @Bandung</strong> – Computer Science (Network Technology)</li>
     I am a student at BINUS University majoring in Computer Science with a focus on Network Technology. Although I am a beginner, I will continue to learn and grow in this field!
   </ul>
 </div>
